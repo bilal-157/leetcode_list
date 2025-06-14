@@ -4,8 +4,9 @@
 
 (2) https://leetcode.com/problems/missing-number/description/
 
-(3)
-(4)
+(3) https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+
+(4) https://leetcode.com/problems/two-sum/description/
 (5)
 (6)
 (7)
