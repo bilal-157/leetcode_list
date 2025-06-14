@@ -7,7 +7,8 @@
 (3) https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 
 (4) https://leetcode.com/problems/two-sum/description/
-(5)
+
+(5) https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
 (6)
 (7)
 (8)
