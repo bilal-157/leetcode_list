@@ -9,7 +9,8 @@
 (4) https://leetcode.com/problems/two-sum/description/
 
 (5) https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
-(6)
+
+(6) https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/
 (7)
 (8)
 (9)
