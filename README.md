@@ -11,7 +11,8 @@
 (5) https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
 
 (6) https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/
-(7)
+
+(7) https://leetcode.com/problems/spiral-matrix/description/
 (8)
 (9)
 (10)
