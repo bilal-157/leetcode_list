@@ -13,7 +13,8 @@
 (6) https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/
 
 (7) https://leetcode.com/problems/spiral-matrix/description/
-(8)
+
+(8) https://leetcode.com/problems/number-of-islands/description/
 (9)
 (10)
 
