@@ -17,7 +17,8 @@
 (8) https://leetcode.com/problems/number-of-islands/description/
 
 (9) https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-(10)
+
+(10) https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
 
 (11)
 (12)
