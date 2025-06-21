@@ -21,7 +21,8 @@
 (10) https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
 
 (11) https://leetcode.com/problems/squares-of-a-sorted-array/description/
-(12)
+
+(12) https://leetcode.com/problems/3sum/description/
 (13)
 (14)
 (15)
