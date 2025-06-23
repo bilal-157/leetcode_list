@@ -13,10 +13,12 @@
 11. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 12. [3Sum](https://leetcode.com/problems/3sum/description/)
 13. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
-14. 
-(14) [Contain Duplicate in Array](https://leetcode.com/problems/contains-duplicate/description/)
 
-(15) [Contain Duplicate II in Array](https://leetcode.com/problems/contains-duplicate-ii/description//)
+14. [Contain Duplicate in Array](https://leetcode.com/problems/contains-duplicate/description/)
+
+15. [Contain Duplicate II in Array](https://leetcode.com/problems/contains-duplicate-ii/description//)
+
+16. 
 (16)
 (17)
 (18)
