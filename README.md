@@ -20,7 +20,9 @@
 
 16. https://leetcode.com/problems/minimum-absolute-difference/description/
 
-17. 
+17. https://leetcode.com/problems/minimum-size-subarray-sum/description/
+
+18. 
 (16)
 (17)
 (18)
