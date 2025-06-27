@@ -22,7 +22,9 @@
 
 17. https://leetcode.com/problems/minimum-size-subarray-sum/description/
 
-18. 
+18. https://leetcode.com/problems/single-number/
+
+19. 
 (16)
 (17)
 (18)
