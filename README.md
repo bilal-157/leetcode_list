@@ -23,3 +23,7 @@
 17. https://leetcode.com/problems/minimum-size-subarray-sum/description/
 
 18. https://leetcode.com/problems/single-number/
+
+19. https://leetcode.com/problems/coin-change/description/
+
+20. https://leetcode.com/problems/climbing-stairs/description/
