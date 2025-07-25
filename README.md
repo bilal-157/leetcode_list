@@ -24,7 +24,7 @@
 
 18. https://leetcode.com/problems/single-number/
 
-19. 
+19. https://leetcode.com/problems/letter-case-permutation/description/
 
 20. https://leetcode.com/problems/coin-change/description/
 
