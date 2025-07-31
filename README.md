@@ -13,26 +13,27 @@
 11. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 12. [3Sum](https://leetcode.com/problems/3sum/description/)
 13. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
+14. 
 
-14. [Contain Duplicate in Array](https://leetcode.com/problems/contains-duplicate/description/)
+15. [Contain Duplicate in Array](https://leetcode.com/problems/contains-duplicate/description/)
 
-15. [Contain Duplicate II in Array](https://leetcode.com/problems/contains-duplicate-ii/description//)
+16. [Contain Duplicate II in Array](https://leetcode.com/problems/contains-duplicate-ii/description//)
 
-16. https://leetcode.com/problems/minimum-absolute-difference/description/
+17. https://leetcode.com/problems/minimum-absolute-difference/description/
 
-17. https://leetcode.com/problems/minimum-size-subarray-sum/description/
+18. https://leetcode.com/problems/minimum-size-subarray-sum/description/
 
-18. https://leetcode.com/problems/single-number/
+19. https://leetcode.com/problems/single-number/
 
-19. https://leetcode.com/problems/letter-case-permutation/description/
+20. https://leetcode.com/problems/letter-case-permutation/description/
 
-20. https://leetcode.com/problems/coin-change/description/
+21. https://leetcode.com/problems/coin-change/description/
 
-21. https://leetcode.com/problems/climbing-stairs/description/
+22. https://leetcode.com/problems/climbing-stairs/description/
 
-22. https://leetcode.com/problems/counting-bits/description/
+23. https://leetcode.com/problems/counting-bits/description/
 
-23. https://leetcode.com/problems/letter-case-permutation/description/
+24. https://leetcode.com/problems/letter-case-permutation/description/
 
-24. https://leetcode.com/problems/subsets/description/
+25. https://leetcode.com/problems/subsets/description/
 
